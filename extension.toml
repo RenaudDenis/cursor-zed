@@ -1,0 +1,7 @@
+id = "cursor-light-dark-theme"
+name = "Cursor Light & Dark"
+version = "0.1.0"
+schema_version = 1
+authors = ["Renaud Denis <mail@renauddenis.com>"]
+description = "Cursor Dark and Cursor Light, generated from the themes that ship with Cursor."
+repository = "https://github.com/RenaudDenis/cursor-zed"
